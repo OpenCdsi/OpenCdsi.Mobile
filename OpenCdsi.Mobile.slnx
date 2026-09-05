@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OpenCdsi.Mobile/OpenCdsi.Mobile.csproj" />
+  </Folder>
+</Solution>
